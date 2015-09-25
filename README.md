@@ -1,8 +1,8 @@
 # Dockerfile for a standalone Nuxeo
 
-This Dockerfile install a Nuxeo 7.3 version without third part, postgres or reverse proxy.
+This Dockerfile installs a Nuxeo 7.3 version without third parts, a PostgreSQL or a reverse proxy.
 
-Useful for test. I plan to add postgres configuration (see element in comment) and link.
+Useful for test. I plan to add PostgreSQL configuration (see element in comment).
 
 ## Start the container 
 
